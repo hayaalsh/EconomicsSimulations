@@ -3,7 +3,7 @@
 These were some of the gifs I created while serving as a volunteer Community TA for an online Microeconomics course. The main goal was to help illustrate the mathimatical models that most students were struggling with graphically. 
 
 ## Effect of shocks on market equilibrium with price floor
-We explore the effect of changing price floor, supply shocks, and demand shocks on market equilibrium.
+We explored the effect of price-floor shifts, supply shocks, and demand shocks on market equilibrium.
 
 <p align="center">
   
