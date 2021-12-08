@@ -12,7 +12,7 @@ We explored the effect of price-floor shifts, supply shocks, and demand shocks o
 </p>
 
 ## Taxing perfect complements
-A graphical explaination of utility maximization when two goods are perfect complements, and the new optimal bundle if goverment imposes a tax on one of the products.
+A graphical explaination of utility maximization when two goods are perfect complements. We also demonstrate how an imposed tax on one of the products shifts the optimal bundle.
 
 <p align="center">
   
@@ -22,7 +22,7 @@ A graphical explaination of utility maximization when two goods are perfect comp
 
 ## Firms merger and profit maximization
 
-A graphical explaination of in producer and consumer surplus that results from the merger of two firms (act as a price-setting monopolist) and explain their profit-maximizing behavior. 
+A graphical explaination of the calculation of producer and consumer surplus that results from the merger of two firms (price-setting monopolist) and explain their profit-maximizing behavior. 
 
 <p align="center">
   
